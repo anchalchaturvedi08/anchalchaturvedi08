@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/ashi0100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashi0100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anchal chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchal chaturvedi" height="30" width="40" /></a>
-<a href="https://instagram.com/seeker.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seeker.00" height="30" width="40" /></a>
+<a href="https://instagram.com/starysphere.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seeker.00" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ashi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashi01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@ashi..241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashi..241" height="30" width="40" /></a>
 </p>
