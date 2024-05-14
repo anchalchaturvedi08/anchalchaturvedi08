@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning and exploring **in technical world**
 
-- 🌱 I’m currently learning **Fronted Development**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 📫 How to reach me **anchalchaturvedi08@gmail.com**
 
