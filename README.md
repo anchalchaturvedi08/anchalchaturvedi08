@@ -1,35 +1,38 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Anchal Chaturvedi</h1>
 <h3 align="center">Computer Science Student</h3>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/ne38HwhXBhsAAAAj/tired-exhausted.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalchaturvedi08&label=Profile%20views&color=0e75b6&style=flat" alt="anchalchaturvedi08" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ashi0100" target="blank"><img src="https://img.shields.io/twitter/follow/ashi0100?logo=twitter&style=for-the-badge" alt="ashi0100" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalchaturvedi&label=Profile%20views&color=0e75b6&style=flat" alt="anchalchaturvedi" /> </p>
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 - 🔭 I’m currently learning and exploring **in technical world**
-
-- 🌱 I’m currently learning **Mern Stack**
-
+- 🌱 I’m currently learning **mern stack**
+- 📝 I regularly write articles on **https://hashnode.com/@ashi0**
 - 📫 How to reach me **anchalchaturvedi08@gmail.com**
+- ⚡ Fun fact **An organism that turns caffeine into code**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Connect with me:</h3>
+<div> <a href="https://twitter.com/ashi0100" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anchal chaturvedi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/anchalchaturvedi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/starysphere.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:anchalchaturvedi08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<h3 align="left">👨🏼‍💻Languages and Tools:</h3>
 <p align="left">
-<a href="https://twitter.com/ashi0100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashi0100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anchal chaturvedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchal chaturvedi" height="30" width="40" /></a>
-<a href="https://instagram.com/starysphere.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starysphere.0" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ashi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashi01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ashi..241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashi..241" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="left">📊Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalchaturvedi&layout=compact&theme=nightowl" alt=anchalchaturvedi />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anchalchaturvedi&show_icons=true&locale=en&theme=nightowl" alt="anchalchaturvedi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalchaturvedi08&show_icons=true&locale=en&layout=compact" alt="anchalchaturvedi08" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anchalchaturvedi08&show_icons=true&locale=en" alt="anchalchaturvedi08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anchalchaturvedi08&" alt="anchalchaturvedi08" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anchalchaturvedi&theme=nightowl" alt="anchalchaturvedi" /></p>
