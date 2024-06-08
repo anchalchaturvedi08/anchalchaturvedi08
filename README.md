@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" width="100%" />
+<img src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="100%"/>
 
 
 <h1 align="center">Hi 👋, I'm Anchal Chaturvedi</h1>
@@ -8,9 +8,11 @@
 
 - 🔭 I’m currently learning and exploring **in technical world**
 - 🌱 I’m currently learning **mern stack**
+- 🤝 Currently Looking for Collaborations!
+I'm a beginner in coding, eager to learn and grow by collaborating on various projects. If you have an idea or project and you're open to working together, I'd love to join in!
 - 📝 I write articles on **https://hashnode.com/@ashi0**
 - 📫 How to reach me **anchalchaturvedi08@gmail.com**
-- ⚡ Fun fact **An organism that turns caffeine into code**
+- ⚡ **Patience and perseverance, the coder's mantra. 🧘‍♂️💻😊**
 
 <h3 align="left">🌐Connect with me:</h3>
 <div> <a href="https://twitter.com/ashi0100" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
