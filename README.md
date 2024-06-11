@@ -4,7 +4,27 @@
 <h1 align="center">Hi 👋, I'm Anchal Chaturvedi</h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchalchaturvedi&label=Profile%20views&color=0e75b6&style=flat" alt="anchalchaturvedi" /> </p>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+
+```⠀
+   ⠀⠀⠀⠀⣀⣤⣶⣾⣿⠿⠿⠿⣿⣷⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣰⣾⡿⠟⠉⠁⠀⠀⣠⠶⠒⠙⠛⠿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣾⡿⠋⠀⠀⠤⣄⣀⣰⠃⠀⠀⠀⠀⠀⠈⠻⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢠⣿⡿⡡⠖⠋⠙⠲⣄⠐⢻⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣿⣿⡟⠁⠀⠀⠀⠀⠈⢳⠈⢧⠀⠀⣾⣿⡆⠀⠀⠀⠸⣿⡇⠀⠀⣠⣴⣶⣄
+⠀⠀⣿⣿⠃⠀⠀⠀⢀⣀⠀⠘⣿⡿⢷⣄⠘⠛⡃⠀⠰⠀⠀⣿⣇⣴⡾⠟⠋⢹⣿
+⠀⠀⢿⣿⡇⠀⠀⠀⢿⣿⡇⠀⢿⣴⣾⡿⠀⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠀⢸⣿
+⠀⠀⠘⣿⣧⠀⠀⠀⠈⠩⠥⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⢠⡿⠃⠀⠀⠀⠀⠀⣿⡟
+⠀⠀⠀⠘⢿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠽⠁⠀⠀⠀⠀⠀⣾⡿⠁
+⠀⠀⠀⠀⠀⣹⣿⣶⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠤⠊⠁⠀⠘⣷⡀⠀⣠⣾⡿⠁⠀
+⠀⠀⢀⣴⣾⠿⠋⠀⠉⠉⠛⠀⠐⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣶⡿⠋⠀⠀⠀
+⣠⣶⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣇⠀⠀⠀⠀
+⢿⣿⣄⠀⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠀⠀⠀⠀
+⠀⠙⠿⢿⣶⣶⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⣿⣇⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣾⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢹⣿⡟⠛⠛⠿⣷⣄⣀⣀⣀⣀⣀⣀⣴⡾⠟⠋⢉⣿⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠻⠿⣶⣶⣶⠿⠿⠿⠿⠿⠿⠻⠿⠿⠷⠶⠶⠿⠟⠁⠀⠀
+                                     ⠀
+```
 
 - 🔭 I’m currently learning and exploring **in technical world**
 - 🌱 I’m currently learning **mern stack**
@@ -19,7 +39,6 @@ I'm a beginner in coding, eager to learn and grow by collaborating on various pr
 <a href="https://www.linkedin.com/in/%F0%9F%9A%80anchal-chaturvedi-9739a7220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://https://www.youtube.com/@Code..188" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://leetcode.com/trainee_004" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="https://instagram.com/starysphere.0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:anchalchaturvedi08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">👨🏼‍💻Languages and Tools:</h3>
@@ -39,3 +58,4 @@ I'm a beginner in coding, eager to learn and grow by collaborating on various pr
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anchalchaturvedi&show_icons=true&locale=en&theme=nightowl" alt="anchalchaturvedi" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anchalchaturvedi&theme=nightowl" alt="anchalchaturvedi" /></p>
+
