@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Anchal Chaturvedi</h1>
 <h3 align="center">Computer Science Student</h3>
