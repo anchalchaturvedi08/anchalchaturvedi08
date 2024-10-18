@@ -8,7 +8,7 @@
 
 ## About Me:
 
-<img src="https://files.oaiusercontent.com/file-NBSL18aoBEh2qCUPqKWYwbgN?se=2024-10-18T00%3A49%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De089d2d2-f916-4878-a4b3-67675beec6b7.webp&sig=79kY2IR5h9YSZfRtuhclseqmLiP/8%2B496zjLOSlgxnY%3D" width="600px" margin="10px" alt="cat" align="right"/>
+<img src="https://files.oaiusercontent.com/file-NBSL18aoBEh2qCUPqKWYwbgN?se=2024-10-18T00%3A49%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De089d2d2-f916-4878-a4b3-67675beec6b7.webp&sig=79kY2IR5h9YSZfRtuhclseqmLiP/8%2B496zjLOSlgxnY%3D" width="400px" margin="10px" alt="computer" align="right"/>
 
 - 🔭 I’m currently learning and exploring **technical world**
 - 🌱 Currently mastering **MERN stack**
