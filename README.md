@@ -1,5 +1,3 @@
-<img src="https://files.oaiusercontent.com/file-NBSL18aoBEh2qCUPqKWYwbgN?se=2024-10-18T00%3A49%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De089d2d2-f916-4878-a4b3-67675beec6b7.webp&sig=79kY2IR5h9YSZfRtuhclseqmLiP/8%2B496zjLOSlgxnY%3D" width="100%">
-
 <h1 align="center">Hi 👋, I'm Anchal Chaturvedi</h1>
 <h3 align="center">Computer Science Student</h3>
 <p align="left"> 
@@ -10,7 +8,7 @@
 
 ## About Me:
 
-<img src="https://github.com/user-attachments/assets/5423f439-701a-4ce6-8042-53e9880e2a95" width="300px" margin="10px" alt="cat" align="right"/>
+<img src="https://files.oaiusercontent.com/file-NBSL18aoBEh2qCUPqKWYwbgN?se=2024-10-18T00%3A49%3A07Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De089d2d2-f916-4878-a4b3-67675beec6b7.webp&sig=79kY2IR5h9YSZfRtuhclseqmLiP/8%2B496zjLOSlgxnY%3D" width="600px" margin="10px" alt="cat" align="right"/>
 
 - 🔭 I’m currently learning and exploring **technical world**
 - 🌱 Currently mastering **MERN stack**
