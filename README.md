@@ -18,6 +18,12 @@
 - 📫 Reach me at **anchalchaturvedi08@gmail.com**
 - ⚡ **Patience and perseverance, are the coder's mantra. 🧘‍♂️💻😊**
 
+## Badges:
+
+![Postman - Postman API Fundamentals Student Expert - 2024-08-23](https://github.com/user-attachments/assets/547ca19b-aa65-43e5-97f6-fad475605de8)
+
+[![An image of @anchalchaturvedi08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anchalchaturvedi08)](https://holopin.io/@anchalchaturvedi08)
+
 ## 🌐 Socials:
 <div>
   <a href="https://twitter.com/ashi0100" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
