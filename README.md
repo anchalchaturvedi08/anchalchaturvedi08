@@ -18,9 +18,18 @@
 - 📫 Reach me at **anchalchaturvedi08@gmail.com**
 - ⚡ **Patience and perseverance, are the coder's mantra. 🧘‍♂️💻😊**
 
-## Badges:
+## Achievements:
 
-![Postman - Postman API Fundamentals Student Expert - 2024-08-23](https://github.com/user-attachments/assets/547ca19b-aa65-43e5-97f6-fad475605de8)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/547ca19b-aa65-43e5-97f6-fad475605de8" alt="Postman - Postman API Fundamentals Student Expert - 2024-08-23" width="200">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/48a90af1-2a4b-4521-8597-b078217b781f" alt="1" width="200">
+    </td>
+  </tr>
+</table>
 
 [![An image of @anchalchaturvedi08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anchalchaturvedi08)](https://holopin.io/@anchalchaturvedi08)
 
