@@ -18,35 +18,44 @@
 - 📫 Reach me at **anchalchaturvedi08@gmail.com**
 - ⚡ **Patience and perseverance, are the coder's mantra. 🧘‍♂️💻😊**
 
-## Achievements:
+## Achievements
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/547ca19b-aa65-43e5-97f6-fad475605de8" alt="Postman - Postman API Fundamentals Student Expert - 2024-08-23" width="300">
-    </td>
-     <td>
-      <img src="https://github.com/user-attachments/assets/1e99e832-1566-41de-aa28-06ede6cd90e8" alt="1" width="300">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/48a90af1-2a4b-4521-8597-b078217b781f" alt="1" width="300">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/25918f3f-ea5d-4692-bb43-0d0e82fbac05" alt="1" width="300">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/c0b90386-37f1-4a99-a80b-74ff1daa4668" alt="1" width="300">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/dabcb132-0595-4467-9d28-3f8e0159e718" alt="1" width="300">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/54c1a401-b4ef-4b6a-a58c-19961d92587a" alt="1" width="300">
-    </td>
-  </tr>
-</table>
-
-[![An image of @anchalchaturvedi08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anchalchaturvedi08)](https://holopin.io/@anchalchaturvedi08)
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github.com/user-attachments/assets/547ca19b-aa65-43e5-97f6-fad475605de8" alt="Postman - Postman API Fundamentals Student Expert - 2024-08-23" width="200">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/1e99e832-1566-41de-aa28-06ede6cd90e8" alt="Achievement 2" width="200">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/48a90af1-2a4b-4521-8597-b078217b781f" alt="Achievement 3" width="200">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/25918f3f-ea5d-4692-bb43-0d0e82fbac05" alt="Achievement 4" width="200">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/user-attachments/assets/c0b90386-37f1-4a99-a80b-74ff1daa4668" alt="Achievement 5" width="200">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/dabcb132-0595-4467-9d28-3f8e0159e718" alt="Achievement 6" width="200">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/54c1a401-b4ef-4b6a-a58c-19961d92587a" alt="Achievement 7" width="200">
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://holopin.io/@anchalchaturvedi08">
+      <img src="https://holopin.me/anchalchaturvedi08" alt="An image of @anchalchaturvedi08's Holopin badges, which is a link to view their full Holopin profile" width="900">
+    </a>
+  </div>
+</div>
 
 ## 🌐 Socials:
 <div>
