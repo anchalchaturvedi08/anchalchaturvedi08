@@ -47,10 +47,13 @@
         <td>
           <img src="https://github.com/user-attachments/assets/54c1a401-b4ef-4b6a-a58c-19961d92587a" alt="Achievement 7" width="200">
         </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/07c22908-589f-4377-b02e-542cde7fec05" alt="Achievement 7" width="200">
+        </td>
       </tr>
     </table>
   </div>
-  <div align="center" style="margin-top: 20px;">
+  <div align="center" style="margin-top: 50px;">
     <a href="https://holopin.io/@anchalchaturvedi08">
       <img src="https://holopin.me/anchalchaturvedi08" alt="An image of @anchalchaturvedi08's Holopin badges, which is a link to view their full Holopin profile" width="900">
     </a>
