@@ -18,7 +18,7 @@
 - 📫 Reach me at **anchalchaturvedi08@gmail.com**
 - ⚡ **Patience and perseverance, are the coder's mantra. 🧘‍♂️💻😊**
 
-## Achievements
+## Achievements:
 
 <div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f9f9f9;">
   <div align="center">
